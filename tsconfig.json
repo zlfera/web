@@ -6,7 +6,6 @@
     "src/**/*.vue"
   ],
   "compilerOptions": {
-    "isolatedModules": false,
     "baseUrl": ".",
     "paths": {
       "@/*": [
